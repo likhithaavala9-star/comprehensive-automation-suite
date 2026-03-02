@@ -1,4 +1,5 @@
 🚀 Comprehensive Automation Suite
+
 📌 Project Overview
 
 The Comprehensive Automation Suite is a modular, end-to-end Python automation framework that integrates file management, web scraping, email automation, system monitoring, task scheduling, workflow chaining, and a GUI interface into a single unified system.
@@ -7,33 +8,54 @@ This project demonstrates real-world automation architecture with modular design
 
 🧠 System Architecture
 GUI (Tkinter)
+      
       ↓
+      
 Workflow Designer
+      
       ↓
+      
 Task Scheduler (JSON-based)
+     
       ↓
+      
 Core Modules:
   - File Organizer
   - Web Scraper
   - Email Automation
   - System Monitor
+
       ↓
+    
 Logging & Reports
 📂 Project Structure
 automation_suite/
 │
+
 ├── modules/
+
 │   ├── file_organizer.py
+
 │   ├── web_scraper.py
+
 │   ├── email_automation.py
+
 │   ├── system_monitor.py
+
 │   ├── task_scheduler.py
+
 │   └── workflow_designer.py
+
 │
+
 ├── gui/
+
 │   └── gui.py
+
 │
+
 ├── configs/
+
 │   ├── schedules.json
 │   └── workflows.json
 │
