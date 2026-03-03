@@ -1,0 +1,20 @@
+{
+    "workflows": [
+        {
+            "name": "Scrape and Email",
+            "steps": [
+                "web_scraper",
+                "email_automation"
+            ],
+            "enabled": true
+        },
+        {
+            "name": "Full System Check",
+            "steps": [
+                "system_monitor",
+                "email_automation"
+            ],
+            "enabled": false
+        }
+    ]
+}

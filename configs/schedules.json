@@ -1,0 +1,23 @@
+
+{
+    "tasks": [
+        {
+            "name": "Run Scraper",
+            "module": "web_scraper",
+            "interval": 60,
+            "enabled": true
+        },
+        {
+            "name": "Send Email",
+            "module": "email_automation",
+            "interval": 120,
+            "enabled": true
+        },
+        {
+            "name": "Monitor System",
+            "module": "system_monitor",
+            "interval": 30,
+            "enabled": true
+        }
+    ]
+}
