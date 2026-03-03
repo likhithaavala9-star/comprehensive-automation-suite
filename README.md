@@ -1,4 +1,4 @@
-🚀 Comprehensive Automation Suite
+#🚀 Comprehensive Automation Suite
 
 📌 Project Overview
 
@@ -9,7 +9,7 @@ This project demonstrates real-world automation architecture with modular design
 🧠 System Architecture
 GUI (Tkinter)
       
-      ↓
+ ↓
       
 Workflow Designer
       
