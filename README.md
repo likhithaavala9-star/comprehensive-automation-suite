@@ -45,30 +45,52 @@ Logging (Activity tracking)
 
 automation_suite/
 │
-├── core/
-│ Main automation logic
-│
-├── scheduler/
-│ Task scheduling module
-│
-├── monitor/
-│ System monitoring functionality
-│
-├── notifier/
-│ Email notification module
-│
-├── utils/
-│ Helper utilities and shared functions
-│
-├── gui/
-│ Graphical user interface
-│
-├── logs/
-│ Application log files
-│
-└── main.py
-Application entry point
 
+├── core/
+
+│ Main automation logic
+
+│
+
+├── scheduler/
+
+│ Task scheduling module
+
+│
+
+├── monitor/
+
+│ System monitoring functionality
+
+│
+
+├── notifier/
+
+│ Email notification module
+
+│
+
+├── utils/
+
+│ Helper utilities and shared functions
+
+│
+
+├── gui/
+
+│ Graphical user interface
+
+│
+
+├── logs/
+
+│ Application log files
+
+│
+
+└── main.py
+
+Application entry point
 
 ---
 
