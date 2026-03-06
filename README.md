@@ -44,6 +44,7 @@ Logging (Activity tracking)
 ## Project Structure
 
 automation_suite/
+
 │
 
 ├── core/
